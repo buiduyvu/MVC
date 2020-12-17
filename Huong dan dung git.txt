@@ -1,0 +1,16 @@
+git init
+git add .   "add tat ca file"
+git add "ten file muon add"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/buiduyvu/MVC.git
+git push -u origin main
+
+
+
+
+
+git add .   "add tat ca file"
+git add "ten file muon add"
+git commit -m "first commit"
+git push -u origin main
